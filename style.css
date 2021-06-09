@@ -100,3 +100,12 @@ body {
   font-weight: bold;
   font-size: large;
 }
+
+.blog-image {
+  max-width: 550px;
+  display: block;
+}
+.blog-font {
+  font-family: "Merriweather", "Georgia", serif;
+  font-size: 1rem;
+}
